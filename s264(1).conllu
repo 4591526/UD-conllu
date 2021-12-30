@@ -1,8 +1,8 @@
-1	achushi	achushi	ADJ	_	_	2	nummod	_	one
+1	Achushi	achushi	ADJ	_	_	2	nummod	_	one
 2	kini	kini	NOUN	_	_	_	_	_	hole
 3	=ñu	ñu	PART	_	_	2	case	_	=propietive
 4	ka	_	PART	_	_	10	aux:sgen	_	_
-5	=a	ka	PART	_	_	10	nsubj:bound	_	narrative:3
+5	=a	ka	PART	_	_	10	nsubj:bound	_	nar:3
 6	mi	mi	PRON	_	_	8	nmod	_	2sg
 7	=n	n	PART	_	_	6	case	_	=genitive
 8	xo	_	NOUN	_	_	9	amod	_	_

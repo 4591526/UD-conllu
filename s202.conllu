@@ -1,4 +1,4 @@
-1	Uni	Uni	NOUN	_	_	9	nsubj:free	_	man
+1	Uni	uni	NOUN	_	_	9	nsubj:free	_	man
 2	achushi	achushi	DET	_	_	1	xmod	_	one
 3	=n	n	PART	_	_	1	case	_	=ergative
 4	=pain	pain	PART	_	_	9	adv	_	=first
